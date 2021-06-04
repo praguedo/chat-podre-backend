@@ -7,7 +7,7 @@
 #
 # Then, build the image with:
 #
-# docker build -f src/main/docker/Dockerfile.native-distroless -t quarkus/chat-podre .
+# docker build -f src/main/docker/Dockerfile.native-distroless -t praguedo/chat-podre .
 #
 # Then run the container using:
 #
